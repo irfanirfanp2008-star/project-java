@@ -97,11 +97,16 @@ console.log(re)
 console.log(tss)
 
 
+let array = [300,250,250,100]
+console.log(array[0])
+console.log(array[1])
+console.log(array[2])
 
+var totallist=array[0]+array[1]+array[2]+array[3]
 
+console.log(totallist)
+var a=800
+console.log(totallist>a)
 
-
-
-
-
+console.log(totallist>500 && totallist<1000)
 
